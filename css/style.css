@@ -1,4 +1,6 @@
-.navbar-toggler-icon
+.navbar-toggler .btn
 {
-  border-radius: 5;
+  background-color: #0d6efd;
+  border: 0;
+  color: #FFFFFF;
 }
